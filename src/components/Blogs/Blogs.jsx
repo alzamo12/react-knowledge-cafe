@@ -1,19 +1,18 @@
-import { useEffect } from "react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const Blogs = () => {
 
-    const [blogs, setBlogs] = useState;
+    const [blogs, setBlogs] = useState();
 
     useEffect(() => {
-        fetch('blog.json')
+        fetch('Blogs.json')
         .then(res => res.json())
         .then(data => setBlogs(data))
     }, [])
 
     return (
-        <div>
-            
+        <div className="md:w-2/3">
+            <h1 className="text-4xl">Blogs: {blogs.length}</h1>
         </div>
     );
 };
