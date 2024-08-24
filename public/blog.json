@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/NKg87HF/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Liam Green",
+      "author_img": "https://images.unsplash.com/photo-1599452222603-f2a2c1c2d586",
+      "posted_date": "2024-08-01",
+      "reading_time": 4
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/sgxH4Y4/tamim.jpg",
+      "title": "Mystery of the Old House",
+      "author": "Emma Blue",
+      "author_img": "https://images.unsplash.com/photo-1532056279278-e831963f4d1c",
+      "posted_date": "2024-07-15",
+      "reading_time": 6
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/kG1DzG6/top-view-desk-concept-with-coffee.jpg",
+      "title": "Journey to the Stars",
+      "author": "Noah Black",
+      "author_img": "https://images.unsplash.com/photo-1517511620798-1b5c6a2f7d71",
+      "posted_date": "2024-08-10",
+      "reading_time": 5
+    },
+    {
+      "id": "4",
+      "cover": "https://images.unsplash.com/photo-1506748686214e9df14f0f1b08b8",
+      "title": "Whispers in the Wind",
+      "author": "Ava White",
+      "author_img": "https://images.unsplash.com/photo-1533992083750-d6a5b14e3b4b",
+      "posted_date": "2024-08-18",
+      "reading_time": 7
+    },
+    {
+      "id": "5",
+      "cover": "https://images.unsplash.com/photo-1526285393657-47f253ccff58",
+      "title": "Secrets of the Ancient World",
+      "author": "Ethan Red",
+      "author_img": "https://images.unsplash.com/photo-1555636523-2b7485f80d64",
+      "posted_date": "2024-08-22",
+      "reading_time": 8
+    }
+  ]
+  
