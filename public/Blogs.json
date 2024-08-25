@@ -1,48 +1,68 @@
 [
-    {
-      "id": "1",
-      "cover": "https://i.ibb.co/NKg87HF/flat-lay-desktop-with-notebook-pizza.jpg",
-      "title": "The Enchanted Forest",
-      "author": "Liam Green",
-      "author_img": "https://images.unsplash.com/photo-1599452222603-f2a2c1c2d586",
-      "posted_date": "2024-08-01",
-      "reading_time": 4
-    },
-    {
-      "id": "2",
-      "cover": "https://i.ibb.co/sgxH4Y4/tamim.jpg",
-      "title": "Mystery of the Old House",
-      "author": "Emma Blue",
-      "author_img": "https://images.unsplash.com/photo-1532056279278-e831963f4d1c",
-      "posted_date": "2024-07-15",
-      "reading_time": 6
-    },
-    {
-      "id": "3",
-      "cover": "https://i.ibb.co/kG1DzG6/top-view-desk-concept-with-coffee.jpggit branch -M main",
-      "title": "Journey to the Stars",
-      "author": "Noah Black",
-      "author_img": "https://images.unsplash.com/photo-1517511620798-1b5c6a2f7d71",
-      "posted_date": "2024-08-10",
-      "reading_time": 5
-    },
-    {
-      "id": "4",
-      "cover": "https://images.unsplash.com/photo-1506748686214e9df14f0f1b08b8",
-      "title": "Whispers in the Wind",
-      "author": "Ava White",
-      "author_img": "https://images.unsplash.com/photo-1533992083750-d6a5b14e3b4b",
-      "posted_date": "2024-08-18",
-      "reading_time": 7
-    },
-    {
-      "id": "5",
-      "cover": "https://images.unsplash.com/photo-1526285393657-47f253ccff58",
-      "title": "Secrets of the Ancient World",
-      "author": "Ethan Red",
-      "author_img": "https://images.unsplash.com/photo-1555636523-2b7485f80d64",
-      "posted_date": "2024-08-22",
-      "reading_time": 8
-    }
-  ]
-  
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/nwmpn2X/top-view-desk-concept-with-coffee.jpg",
+    "title": "Understanding JavaScript Closures",
+    "author": "Jane Doe",
+    "author_img": "https://m.media-amazon.com/images/M/MV5BNDE3YjUwYWMtNWY5My00N2MwLWE2ODMtMGFkZDE1ZDJhOTY0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "posted_date": "2024-08-20",
+    "reading_time": "5 min",
+    "hashtags": [
+      "beginners",
+      "es6"
+    ]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/NKg87HF/flat-lay-desktop-with-notebook-pizza.jpg",
+    "title": "A Guide to React Hooks",
+    "author": "John Smith",
+    "author_img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rabindranath_Tagore_unknown_location.jpg",
+    "posted_date": "2024-08-22",
+    "reading_time": "8 min",
+    "hashtags": [
+      "javascript",
+      "coding",
+      "dev"
+    ]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/dWk74Hx/high-angle-desktop-with-laptop-copy-space.jpg",
+    "title": "CSS Grid vs  Which One to Choose?",
+    "author": "Emily Johnson",
+    "author_img": "https://ssl.du.ac.bd/fontView/images/notable/16202859081513593908.jpg",
+    "posted_date": "2024-08-23",
+    "reading_time": "6 min",
+    "hashtags": [
+      "mid-level",
+      "react"
+    ]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/qNfWMsJ/flat-lay-work-desktop-with-notebook-keyboard.jpg",
+    "title": "Introduction to TypeScript",
+    "author": "Michael Brown",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQVokO4OojbN8P0vCSf3jB91X0FEPAmHkqA&sg",
+    "posted_date": "2024-08-18",
+    "reading_time": "7 min",
+    "hashtags": [
+      "development",
+      "resources"
+    ]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/q7sDKMW/flat-lay-desk-dark-concept-with-copy-space.jpg",
+    "title": "How to Optimize Your Web Performance",
+    "author": "Lisa White",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVtZ1CY8a_6yvENNMPSvzNlkC5_G3eH6BWA&s",
+    "posted_date": "2024-08-25",
+    "reading_time": "9 min",
+    "hashtags": [
+      "python",
+      "app development"
+    ]
+  }
+]
