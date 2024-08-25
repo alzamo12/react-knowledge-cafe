@@ -6,7 +6,7 @@
     "author": "Jane Doe",
     "author_img": "https://m.media-amazon.com/images/M/MV5BNDE3YjUwYWMtNWY5My00N2MwLWE2ODMtMGFkZDE1ZDJhOTY0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
     "posted_date": "2024-08-20",
-    "reading_time": "5 min",
+    "reading_time": 5,
     "hashtags": [
       "beginners",
       "es6"
@@ -19,7 +19,7 @@
     "author": "John Smith",
     "author_img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rabindranath_Tagore_unknown_location.jpg",
     "posted_date": "2024-08-22",
-    "reading_time": "8 min",
+    "reading_time": 8,
     "hashtags": [
       "javascript",
       "coding",
@@ -33,7 +33,7 @@
     "author": "Emily Johnson",
     "author_img": "https://ssl.du.ac.bd/fontView/images/notable/16202859081513593908.jpg",
     "posted_date": "2024-08-23",
-    "reading_time": "6 min",
+    "reading_time": 6,
     "hashtags": [
       "mid-level",
       "react"
@@ -46,7 +46,7 @@
     "author": "Michael Brown",
     "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQVokO4OojbN8P0vCSf3jB91X0FEPAmHkqA&sg",
     "posted_date": "2024-08-18",
-    "reading_time": "7 min",
+    "reading_time": 7,
     "hashtags": [
       "development",
       "resources"
@@ -59,7 +59,7 @@
     "author": "Lisa White",
     "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVtZ1CY8a_6yvENNMPSvzNlkC5_G3eH6BWA&s",
     "posted_date": "2024-08-25",
-    "reading_time": "9 min",
+    "reading_time": 9,
     "hashtags": [
       "python",
       "app development"
